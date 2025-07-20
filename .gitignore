@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.Python
+Python-*-venv/
+venv/
+env/
+*.env
+.envrc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
